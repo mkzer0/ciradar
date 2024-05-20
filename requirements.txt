@@ -1,0 +1,7 @@
+PyGithub==1.55
+pandas==1.3.4
+matplotlib==3.8.4
+tqdm==4.66.4
+numpy
+scipy
+statsmodels
